@@ -1,2 +1,1 @@
-# cohort5
-Venturenix Class Cohort #5
+# Venturenix Next-Gen AI Development Class Cohort #5
